@@ -1,8 +1,6 @@
 <html>
 <body>
-<head>
-added head on the top	
-</head>
+
 <!--Top Drop Down Menu 1 HTML-->
 <ul id="ddsubmenu1" class="ddsubmenustyle">
 <li><a href="collection_homeaccessories.html">HOME ACCESSORIES</a>
